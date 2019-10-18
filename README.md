@@ -12,7 +12,7 @@
 ### **提交说明**
 
 1. 本地创建Weekwork 文件夹并git init 初始化
-2. git clone 仓库 acm-py/Work至本地Weekwork文件夹
+2. git clone 仓库 acm-py/Weekwork至本地Weekwork文件夹
 3. cd 至Weekwork 目录
 4. 创建本地分支并push远程分支 :
    1. 命名规则为姓名（拼音）_年级 例：xiaoming_19
