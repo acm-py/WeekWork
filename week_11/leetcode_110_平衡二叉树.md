@@ -6,7 +6,7 @@
 
 > 一个二叉树*每个节点* 的左右两个子树的高度差的绝对值不超过1。
 
-![image-20191125145903864](F:\C工程\数据结构\image_explain\LeetCode_110_平衡二叉树.png)
+![图片](https://github.com/acm-py/Weekwork/raw/hmb/image_explain/LeetCode_110_平衡二叉树.png)
 
 #### 做深度优先遍历DFS，提前阻断。这种效率很高（从底至顶，最差情况O(n)）
 
