@@ -1,5 +1,5 @@
 ### **leetcode_16_最接近的三数之和**
-
+![图片](https://github.com/acm-py/Weekwork/raw/hmb/image_explain/LeetCode_16_最接近的三数之和.png)
 #### 相同点：与上一题相同所用的方法和考虑的角度大致相同。
 
 #### 不同点：本题添加了target 值，要对不同组合的三数之和与target之差的绝对值进行比较，取绝对值之差最小的一种组合。
