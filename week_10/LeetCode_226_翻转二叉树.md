@@ -1,6 +1,6 @@
 ### **LeetCode_226_翻转二叉树**
 
-![image-20191128183007643](F:\C工程\数据结构\image_explain\LeetCode_226_翻转二叉树.png)
+![imag](https://github.com/acm-py/Weekwork/raw/hmb/image_explain/LeetCode_226_翻转二叉树.png))
 
 ```python
 # Definition for a binary tree node.
