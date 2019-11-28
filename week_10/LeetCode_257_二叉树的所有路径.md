@@ -1,6 +1,6 @@
-### **LeetCode_226_翻转二叉树**
+### **LeetCode_257_二叉树的所有路径**
 
-#### ![image-20191127170404435](F:\C工程\数据结构\image_explain\LeetCode_257_二叉树的所有路径.png)
+#### ![图片](https://github.com/acm-py/Weekwork/raw/hmb/image_explain/LeetCode_257_二叉树的所有所有路径.png)
 
 #### 简言之递归
 
