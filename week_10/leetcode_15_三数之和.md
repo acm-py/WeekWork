@@ -1,5 +1,5 @@
 ## **leetcode_15_三数之和**
-![图片](https://imgchr.com/i/QFFbyn)
+![图片](https://github.com/acm-py/Weekwork/raw/hmb/image_explain/LeetCode_15_三数之和.png)
 #### 对于任一问题都应该先考虑特判情况
 
 ```python
