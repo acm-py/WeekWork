@@ -1,7 +1,6 @@
 ### **LeetCode_101_对称二叉树**
 
-#### ![image-20191128190504578](F:\C工程\数据结构\image_explain\LeetCode_101_对称二叉树.png)
-
+#### ![图片](https://github.com/acm-py/Weekwork/raw/hmb/image_explain/LeetCode_101_对称二叉树.png)
 #### 有一个坑：当结果是这样时也是True [1, 2, 2, 3, null, null, 3]。只要保持对称即可
 
 #### 众所周知还是递归
