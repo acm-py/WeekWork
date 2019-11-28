@@ -1,6 +1,6 @@
 ### **LeetCode_235_二叉搜索树的最近公共祖先**
 
-<img src="F:\C工程\数据结构\image_explain\LeetCode_235_二叉搜索树的最近公共祖先.png" alt="image-20191127171934555" style="zoom:100%;" />
+![图片](https://github.com/acm-py/Weekwork/raw/hmb/image_explain/LeetCode_235_二叉树的最近公共祖先.png)
 
 ```python
 # Definition for a binary tree node.
