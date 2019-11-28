@@ -1,6 +1,6 @@
 ### **LeetCode_107_二叉树的层次遍历**
 
-#### ![image-20191126171532537](F:\C工程\数据结构\image_explain\LeetCode_107_二叉树的遍历层次2.png)
+#### ![图片](https://github.com/acm-py/Weekwork/raw/hmb/image_explain/LeetCode_107_二叉树的遍历层次2.png)
 
 ```python
 class Solution:
