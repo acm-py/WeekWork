@@ -8,7 +8,7 @@ categories:
 thumbnail: /images/蜗牛.png
 ---
 
-[单身](https://github.com/Mrliya/acm-py/raw/liya_18/Screenshots/a2.jpg)
+[单身](https://github.com/Mrliya/weekwork/raw/liya_18/Screenshots/a2.jpg)
 
 Manacher（马拉车） 算法，字符串匹配算法的一种。一般用于求最长回文子串。应用范围较窄。
 <!--more-->
