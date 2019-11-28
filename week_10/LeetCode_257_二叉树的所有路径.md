@@ -1,6 +1,6 @@
 ### **LeetCode_257_二叉树的所有路径**
 
-#### ![图片](https://github.com/acm-py/Weekwork/raw/hmb/image_explain/LeetCode_257_二叉树的所有所有路径.png)
+#### ![图片](https://github.com/acm-py/Weekwork/raw/hmb/image_explain/LeetCode_257_二叉树的所有路径.png)
 
 #### 简言之递归
 
